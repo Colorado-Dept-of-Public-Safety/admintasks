@@ -2,9 +2,9 @@
 
 Draft of Admin Task Notebook. 
 Tasks Outlined: 
-1.) How to create, download and delete reports for users and items In a AGOL Org. 
-2.) How to  Find by user all CSV files in AGOL and Download to file path for archiving. 
-3.) How to Find, and Download all Feature Layers. 
+<ul> 1.) How to create, download and delete reports for users and items In a AGOL Org. </ul>
+<ul> 2.) How to  Find by user all CSV files in AGOL and Download to file path for archiving. </ul>
+<ul> 3.) How to Find, and Download all Feature Layers. </ul> 
 
 Next Steps: 
 1.) Create python script that shows relationships for all Dashboards, Storymaps and other mapping applications. 

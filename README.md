@@ -8,4 +8,4 @@ Tasks Outlined:
 
 Next Steps: 
 <ul> 1.) Create python script that shows relationships for all Dashboards, Storymaps and other mapping applications. </ul> 
-<ul> 2.) Figure out a way to convery webmaps to ArcGIS Pro Packages and download thme to archive folder. </ul> 
+<ul> 2.) Figure out a way to convert webmaps to ArcGIS Pro Packages and download them to archive folder. </ul> 

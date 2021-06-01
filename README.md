@@ -7,5 +7,5 @@ Tasks Outlined:
 <ul> 3.) How to Find, and Download all Feature Layers. </ul> 
 
 Next Steps: 
-1.) Create python script that shows relationships for all Dashboards, Storymaps and other mapping applications. 
-2.) Figure out a way to convery webmaps to ArcGIS Pro Packages and download thme to archive folder. 
+<ul> 1.) Create python script that shows relationships for all Dashboards, Storymaps and other mapping applications. </ul> 
+<ul> 2.) Figure out a way to convery webmaps to ArcGIS Pro Packages and download thme to archive folder. </ul> 
